@@ -7,4 +7,4 @@
 
 ## オープンデータ標準利用規約（案）
 ### データ
-- [オープンデータ標準利用規約（第1.0版）案](https://github.com/mapconcierge/copyright-policy-jp/tree/main/OpenDataStandardTermsofUse)
+- [オープンデータ標準利用規約（第1.0版）案](OpenDataStandardTermsofUse/)
